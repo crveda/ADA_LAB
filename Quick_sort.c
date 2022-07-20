@@ -46,6 +46,6 @@ int main()
         temp=600/600;
     }
     end = clock();
-    printf("\nTime taken for LINEAR Search is %f seconds\n",(((double)(end-start))/CLOCKS_PER_SEC));
+    printf("\nTime taken for Quick Sort is %f seconds\n",(((double)(end-start))/CLOCKS_PER_SEC));
     return 0;
 }
